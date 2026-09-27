@@ -31,6 +31,36 @@ höchstens zwei offene Buchungen pro Person (einstellbar).
 Die vollständige Beschreibung mit allen Regeln und bekannten Grenzen steht in
 [FUNKTIONSBESCHREIBUNG.md](FUNKTIONSBESCHREIBUNG.md).
 
+## So sieht es aus
+
+Personenbezogene Daten sind in allen Bildern geschwärzt.
+
+**Eigene Anmeldungen mit Erfahrungsstufe** – die Sicht der Schülerinnen und Schüler
+
+![Übersicht der eigenen Anmeldungen mit Erfahrungsstufe](docs/screenshots/schueler-meine-anmeldungen.jpg)
+
+**Dashboard** – Kennzahlen, nächste Workshops, neue Registrierungen und der
+Hinweis auf den Klassenwechsel
+
+![Admin-Dashboard](docs/screenshots/admin-dashboard.jpg)
+
+**Workshops verwalten** – Termine anlegen, bearbeiten, stilllegen
+
+![Workshop-Verwaltung](docs/screenshots/admin-workshops.jpg)
+
+**Anmeldungen** – Teilnehmerlisten je Workshop, stornieren, nachrücken lassen,
+CSV-Export
+
+![Anmeldungen verwalten](docs/screenshots/admin-anmeldungen.jpg)
+
+**Schülerinnen und Schüler** – alle Registrierten mit Klasse, Kontakt und Buchungen
+
+![Schülerverwaltung](docs/screenshots/admin-schueler.jpg)
+
+**Admin-Login**
+
+<img src="docs/screenshots/admin-login.jpg" alt="Admin-Login" width="300">
+
 ## Voraussetzungen
 
 - PHP 8.0 oder neuer mit PDO-MySQL

@@ -24,6 +24,10 @@ setup.php
 # Interne Planungsdokumente (Pläne und Specs) - nicht öffentlich
 docs/superpowers/
 
+# Original-Screenshots mit echten Schülerdaten - nie veröffentlichen!
+# Öffentlich sind nur die geschwärzten Fassungen in docs/screenshots/
+docs/pics/
+
 # Sicherungskopien alter/defekter Git-Verzeichnisse
 .git.backup*/
 
