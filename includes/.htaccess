@@ -1,0 +1,2 @@
+# Dateien in includes/ werden nur von PHP eingebunden, nie direkt aufgerufen.
+Require all denied

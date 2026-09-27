@@ -1,0 +1,33 @@
+# Konfiguration mit Datenbankpasswörtern - NIEMALS in Git!
+includes/config.php
+
+# Backup-Dateien
+*.bak
+*.backup
+*.sql
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Setup-Skript (nach Installation löschen)
+setup.php
+
+# Claude Code: Arbeitsbereiche und Zwischenstände
+.claude/worktrees/
+.superpowers/
+
+# Interne Planungsdokumente (Pläne und Specs) - nicht öffentlich
+docs/superpowers/
+
+# Sicherungskopien alter/defekter Git-Verzeichnisse
+.git.backup*/
+
+# Nur für die eigene Installation: Update-Anleitungen, Projektnotizen, Editor-Workspace
+ANLEITUNG_*.md
+CLAUDE.md
+*.code-workspace
